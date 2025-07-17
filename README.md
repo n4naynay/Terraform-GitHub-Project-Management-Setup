@@ -43,8 +43,8 @@ It also includes a CI/CD pipeline powered by **GitHub Actions**.
 ```bash
 # GitHub Settings
 GITHUB_TOKEN="ghp_..."
-GITHUB_OWNER="Blue-Lambda-University"
-COLLABORATORS='["bluelambdatech", "nene", "omolewa"]'
+GITHUB_OWNER="n4naynay"
+COLLABORATORS='["n4naynay", "nene", "omolewa"]'
 
 # Repo-level secrets
 SECRETS='{
@@ -106,4 +106,4 @@ MIT © Blue Lambda Technologies
 
 ---
 
-Need help? Contact [info@bluelambdatechnologies.com](mailto:info@bluelambdatechnologies.com)
+Need help? Contact [n4naynay@gmail.com]
